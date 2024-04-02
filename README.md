@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Some ScreenShots
 
+![Screen Shot1](images/Rolling Dice2.jpg)
+![Screen Shot2](images/Rolling Dice.jpg)
